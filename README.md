@@ -8,10 +8,10 @@ Responsive Todo app built using React and TypeScript. This project showcases ful
 
 - Complete Task Control: Add, view, update, or remove tasks effortlessly.
 - Task Operations:
-- - Create New: Quickly insert new items into your list.
-- - Rename: Edit task titles directly by double-clicking.
-- - Mark Complete / Active: Switch tasks between done and pending.
-- - Remove Tasks: Delete individual items or clear all completed ones at once.
+  - Create New: Quickly insert new items into your list.
+  - Rename: Edit task titles directly by double-clicking.
+  - Mark Complete / Active: Switch tasks between done and pending.
+  - Remove Tasks: Delete individual items or clear all completed ones at once.
 - Update All at Once: Toggle the status of every task with a single action.
 - Smart Filters: Easily switch between all tasks, active tasks, or finished tasks.
 - Persistent Storage: All changes are saved and synced with the backend API.
